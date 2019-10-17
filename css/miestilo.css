@@ -1,0 +1,22 @@
+.cuadro{
+	height: 164px;
+	width: 164px;
+	display: inline-block;
+	background-color: white;
+	border:solid #F9B3FF;
+	border-width: 8px;
+}
+.container{
+	position: relative;
+	margin-top: 20px;
+	height: 550px;
+	width: 550px;
+	left: 400px;
+	background-color: #F9B3FF;
+}
+h1{
+	position: relative;
+	font-family: sans-serif;
+	color: #BE40ED;
+	left: 630px;
+}
